@@ -12,6 +12,7 @@ The following components were available for a total cost of ~110€ in April 202
 - [NVIDIA GT210](https://www.aliexpress.com/item/1005007345331944.html)
 - [Wi-Fi Card](https://www.aliexpress.com/item/1005006083727591.html)
 - CR2032 Battery
+- Open bench setup (no case)
 
 ## ✅ Already available components:
 - Desktop + HDMI cable
