@@ -1,5 +1,5 @@
-# Low Budget PC build
-💻 Low budget DIY PC build with low-cost components, including Intel i3-3240, 8GB RAM, 256 GB SSD and NVIDIA GT210 graphics card.
+# 💻 Low Budget PC build
+Low budget DIY PC build with low-cost components, including Intel i3-3240, 8GB RAM, 256 GB SSD and NVIDIA GT210 graphics card.
 
 ## 🛠️ Components
 The following components were available for a total cost of ~110€ in April 2025
