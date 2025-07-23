@@ -7,13 +7,14 @@ The following components were available for a total cost of ~110€ in April 202
 - [500W Power Supply Unit](https://www.aliexpress.com/item/1005007250727277.html)
 - [MACHINIST H61 Motherboard](https://www.aliexpress.com/item/1005006628014226.html)
 - [Intel Core i3 3240 3.4GHz 2-Core](https://www.aliexpress.com/item/1005007333602193.html)
-- [CPU Cooler](https://www.amazon.de/dp/B01KADYTEE)
+- [Xilence I200 PC Intercooler](https://www.amazon.de/dp/B01KADYTEE)
 - [SSD 256GB](https://www.aliexpress.com/item/1005007162099601.html)
 - [NVIDIA GT210](https://www.aliexpress.com/item/1005007345331944.html)
 - [Wi-Fi Card](https://www.aliexpress.com/item/1005006083727591.html)
 - CR2032 Battery
 
-Already available components:
+## ✅ Already available components:
 - Desktop + HDMI cable
 - Keyboard + Mouse
-- OS: Linux Ubuntu
+
+## ⚙️ OS: Linux Ubuntu
