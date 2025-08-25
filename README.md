@@ -13,10 +13,9 @@ The following components were available for a total cost of ~110€ in April 202
 - [Wi-Fi Card](https://www.aliexpress.com/item/1005006083727591.html)
 - [Case: Micro ATX Akyga AK36BK](https://www.amazon.de/dp/B08M7BZJ3Q)
 - CR2032 Battery
-- Open bench setup (no case)
 
 ## ✅ Already available components:
 - Desktop + HDMI cable
-- Keyboard + Mouse
+- Keyboard & Mouse
 
 ## ⚙️ OS: Linux Ubuntu
